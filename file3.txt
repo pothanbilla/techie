@@ -1,1 +1,3 @@
 echo "for second commit"
+
+echo "for third commit"
